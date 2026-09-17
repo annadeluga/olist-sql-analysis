@@ -73,7 +73,7 @@ Primary and foreign keys were defined to establish relationships between the mai
 
 ### Products
 
--
+- [Products analysis](SQL/02_Products.sql)
 
 ### Payments & Sellers
 

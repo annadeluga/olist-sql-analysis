@@ -101,11 +101,11 @@ olist-sql-analysis/
 ├── README.md
 │
 ├── SQL/
-│   ├── 1. Customers.sql
-│   ├── 2. Products.sql
-│   ├── 3. Payments_Sellers.sql
-│   ├── 4. Reviews.sql
-│   ├── 5. Orders_Delivery.sql
+│   ├── 1_Customers.sql
+│   ├── 2_Products.sql
+│   ├── 3_Payments_Sellers.sql
+│   ├── 4_Reviews.sql
+│   ├── 5_Orders_Delivery.sql
 │
 └── screenshots/
     └── database_diagram.png

@@ -28,8 +28,9 @@ The main goal of the project was to explore customer behavior, product sales, pa
 ## Database structure
 
 The project uses the Olist e-commerce dataset consisting of multiple related tables.
-
 Primary and foreign keys were defined to establish relationships between the main entities.
+
+![Database diagram](screenshots/database_diagram.png)
 
 ## Business questions
 

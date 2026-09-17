@@ -81,7 +81,7 @@ Primary and foreign keys were defined to establish relationships between the mai
 
 ### Reviews
 
--
+- [Reviews analysis](SQL/04_Reviews.sql)
 
 ### Orders & Delivery
 

@@ -29,7 +29,7 @@ SELECT
     units_sold, 
     CAST(revenue AS decimal(10,2)) AS revenue, 
     CAST(revenue * 100 / SUM(revenue) OVER() AS decimal(10,2)) AS revenue_percentage
-FROM top_products
+FROM category_sales
 ORDER BY revenue DESC;
 
 -- 3. Does the number of product photos relate to sales? 

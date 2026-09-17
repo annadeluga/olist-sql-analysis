@@ -90,9 +90,12 @@ Primary and foreign keys were defined to establish relationships between the mai
 
 ## Key insights
 
-- 
-- 
-- 
+- São Paulo (SP) has the highest number of unique customers, with 14,984 customers.
+- The best-selling product was sold 527 times, generating R$37,608.90 in revenue at an average price of R$71.36.
+- The Beauty & Health category generated the highest revenue, reaching R$1,258,681.34 and accounting for 9.26% of total revenue.
+- Credit cards were the most popular payment method, accounting for approximately 74% of all payments.
+- The overall average review score was 4.0, with 58% of reviews receiving the highest score of 5.
+- Late deliveries were associated with substantially lower review scores: orders delivered late received an average score of 2.0 compared with 4.0 for orders delivered on time.
 
 ## Project structure
 

@@ -85,7 +85,7 @@ Primary and foreign keys were defined to establish relationships between the mai
 
 ### Orders & Delivery
 
--
+- [Orders & Delivery analysis](SQL/05_Orders_Delivery.sql)
 
 ## Key insights
 

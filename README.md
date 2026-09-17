@@ -77,7 +77,7 @@ Primary and foreign keys were defined to establish relationships between the mai
 
 ### Payments & Sellers
 
--
+- [Payments & Sellers analysis](SQL/03_Payments_Sellers.sql)
 
 ### Reviews
 

@@ -2,7 +2,7 @@
 
 ## About the project
 
-This project presents an analysis of the Olist Brazilian e-commerce dataset from Kaggle using SQL Server.
+This project presents an analysis of the Olist Brazilian e-commerce dataset using SQL Server.
 
 The main goal of the project was to explore customer behavior, product sales, payment methods, reviews, sellers and delivery performance, and answer selected business questions using SQL.
 
@@ -96,6 +96,11 @@ Primary and foreign keys were defined to establish relationships between the mai
 - Credit cards were the most popular payment method, accounting for approximately 74% of all payments.
 - The overall average review score was 4.0, with 58% of reviews receiving the highest score of 5.
 - Late deliveries were associated with substantially lower review scores: orders delivered late received an average score of 2.0 compared with 4.0 for orders delivered on time.
+
+## Dataset
+
+The dataset used in this project is the Olist Brazilian E-Commerce dataset from Kaggle.
+https://www.kaggle.com/code/anshumoudgil/olist-ecommerce-analytics-quasi-poisson-poly-regs
 
 ## Project structure
 
